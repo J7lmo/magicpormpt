@@ -2,7 +2,7 @@
 programe python pour ameliore vos prompt stable diffision
 
 ```diff
-- text in red
+- text in blue
 + text in green
 ! text in orange
 # text in gray
