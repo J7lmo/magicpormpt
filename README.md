@@ -9,6 +9,6 @@ programe python pour ameliore vos prompt stable diffision
 @@ text in purple (and bold)@@
 ```
 
-```diff
-- xxcxcx
-```
+:::center
+coucou
+:::
